@@ -2,7 +2,7 @@
 
 python manage.py runserver
 
-#TODO List
+#TODO List For Sprint 1
 
 Completed Numbers for Sprint 1:
 
